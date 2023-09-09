@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  mem.cpp
+  proc.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\yanni\Documents\GameHacking\C++\AssaultCubeInternal\AssaultCubeInternal\dllmain.cpp(12): warning C4715: 'calculateHex': not all control paths return a value
+  All 21 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AssaultCubeInternal.vcxproj -> C:\Users\yanni\Documents\GameHacking\C++\AssaultCubeInternal\Release\AssaultCubeInternal.dll

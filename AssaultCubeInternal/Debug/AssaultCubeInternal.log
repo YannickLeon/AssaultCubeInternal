@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\yanni\Documents\GameHacking\C++\AssaultCubeInternal\AssaultCubeInternal\dllmain.cpp(20,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yanni\Documents\GameHacking\C++\AssaultCubeInternal\AssaultCubeInternal\dllmain.cpp(20,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yanni\Documents\GameHacking\C++\AssaultCubeInternal\AssaultCubeInternal\dllmain.cpp(21,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\yanni\Documents\GameHacking\C++\AssaultCubeInternal\AssaultCubeInternal\dllmain.cpp(22,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  mem.cpp
+  proc.cpp
+  Generating Code...
+C:\Users\yanni\Documents\GameHacking\C++\AssaultCubeInternal\AssaultCubeInternal\dllmain.cpp(15): warning C4715: 'calculateHex': not all control paths return a value
+  AssaultCubeInternal.vcxproj -> C:\Users\yanni\Documents\GameHacking\C++\AssaultCubeInternal\Debug\AssaultCubeInternal.dll
